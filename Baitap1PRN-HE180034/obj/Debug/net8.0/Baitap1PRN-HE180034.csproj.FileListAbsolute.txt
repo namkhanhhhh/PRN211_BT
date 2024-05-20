@@ -1,0 +1,28 @@
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\bin\Debug\net8.0\Baitap1PRN-HE180034.exe
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\bin\Debug\net8.0\Baitap1PRN-HE180034.deps.json
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\bin\Debug\net8.0\Baitap1PRN-HE180034.runtimeconfig.json
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\bin\Debug\net8.0\Baitap1PRN-HE180034.dll
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\bin\Debug\net8.0\Baitap1PRN-HE180034.pdb
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.AssemblyInfoInputs.cache
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.AssemblyInfo.cs
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.csproj.CoreCompileInputs.cache
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.dll
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\refint\Baitap1PRN-HE180034.dll
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.pdb
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.genruntimeconfig.cache
+F:\Ky 5\Thư mục mới\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\ref\Baitap1PRN-HE180034.dll
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\bin\Debug\net8.0\Baitap1PRN-HE180034.exe
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\bin\Debug\net8.0\Baitap1PRN-HE180034.deps.json
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\bin\Debug\net8.0\Baitap1PRN-HE180034.runtimeconfig.json
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\bin\Debug\net8.0\Baitap1PRN-HE180034.dll
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\bin\Debug\net8.0\Baitap1PRN-HE180034.pdb
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.AssemblyInfoInputs.cache
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.AssemblyInfo.cs
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.csproj.CoreCompileInputs.cache
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.dll
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\refint\Baitap1PRN-HE180034.dll
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.pdb
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\Baitap1PRN-HE180034.genruntimeconfig.cache
+F:\Ky 5\PRN-BTVN\Baitap1PRN-HE180034\Baitap1PRN-HE180034\obj\Debug\net8.0\ref\Baitap1PRN-HE180034.dll

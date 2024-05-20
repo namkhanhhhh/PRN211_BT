@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Ky 5\\PRN-BTVN\\Baitap1PRN-HE180034\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE85527-F8A8-42BD-A80E-FE426F064E40}|Baitap2PRN-HE180034\\Baitap2PRN-HE180034.csproj|f:\\ky 5\\prn-btvn\\baitap1prn-he180034\\baitap2prn-he180034\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE85527-F8A8-42BD-A80E-FE426F064E40}|Baitap2PRN-HE180034\\Baitap2PRN-HE180034.csproj|solutionrelative:baitap2prn-he180034\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE85527-F8A8-42BD-A80E-FE426F064E40}|Baitap2PRN-HE180034\\Baitap2PRN-HE180034.csproj|f:\\ky 5\\prn-btvn\\baitap1prn-he180034\\baitap2prn-he180034\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE85527-F8A8-42BD-A80E-FE426F064E40}|Baitap2PRN-HE180034\\Baitap2PRN-HE180034.csproj|solutionrelative:baitap2prn-he180034\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN-BTVN\\Baitap1PRN-HE180034\\Baitap2PRN-HE180034\\Customer.cs",
+              "RelativeDocumentMoniker": "Baitap2PRN-HE180034\\Customer.cs",
+              "ToolTip": "F:\\Ky 5\\PRN-BTVN\\Baitap1PRN-HE180034\\Baitap2PRN-HE180034\\Customer.cs",
+              "RelativeToolTip": "Baitap2PRN-HE180034\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:53:34.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN-BTVN\\Baitap1PRN-HE180034\\Baitap2PRN-HE180034\\Program.cs",
+              "RelativeDocumentMoniker": "Baitap2PRN-HE180034\\Program.cs",
+              "ToolTip": "F:\\Ky 5\\PRN-BTVN\\Baitap1PRN-HE180034\\Baitap2PRN-HE180034\\Program.cs",
+              "RelativeToolTip": "Baitap2PRN-HE180034\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:33:54.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
